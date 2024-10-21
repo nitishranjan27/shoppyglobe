@@ -21,3 +21,17 @@ ShoppyGlobe is a modern e-commerce application that allows users to view product
 1. Clone the repository:
 
    git clone https://github.com/nitishranjan27/shoppyglobe.git
+
+2. Navigate to the project directory
+
+   cd shoppyglobe
+
+3. Install dependencies
+ 
+   npm install
+
+4. Start the development server:
+
+   npm run dev
+
+5. Open in browser and go to http://localhost:5173 to view the application.
